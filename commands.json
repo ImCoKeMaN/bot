@@ -164,6 +164,17 @@
     "color": "blue"
   },
   {
+    "name": "battery",
+    "description": "Show battery info",
+    "type": "direct",
+    "title": "Why battery levels are just a guess",
+    "text": "Why Battery Levels Are Just a Guess and everything you want to know ( and some you probably didn’t ) about State of Charge on the H700+AXP717",
+    "image": "",
+    "url": "https://community.muos.dev/t/why-battery-levels-are-just-a-guess/368",
+    "button": "View battery info on Website",
+    "color": "blue"
+  },
+  {
     "name": "hotkey",
     "description": "Show Handy Hotkeys",
     "type": "direct",

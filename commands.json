@@ -173,8 +173,8 @@
     "url": "https://muos.dev/#handy-hotkeys",
     "button": "View Handy Hotkeys on Website",
     "color": "blue"
-  }
-    {
+  },
+  {
     "name": "tour",
     "description": "Show Grand Tour link",
     "type": "direct",
@@ -184,7 +184,7 @@
     "url": "https://muos.dev/tour",
     "button": "View the Grand Tour on Website",
     "color": "blue"
-  }
+  },
   {
     "name": "repressed",
     "description": "Explain why retroarch configurations are locked",
@@ -195,7 +195,7 @@
     "url": "https://community.muos.dev/t/my-retroarch-configuration-is-being-repressed/823",
     "button": "View Retroarch config details",
     "color": "blue"
-  }
+  },
   {
     "name": "themes",
     "description": "Show link to themes",
@@ -206,7 +206,18 @@
     "url": "https://muos.dev/themes",
     "button": "View Themes library on Website",
     "color": "blue"
-  }
+  },
+  {
+    "name": "battery",
+    "description": "Show battery info",
+    "type": "direct",
+    "title": "Why battery levels are just a guess",
+    "text": "Why Battery Levels Are Just a Guess and everything you want to know ( and some you probably didn’t ) about State of Charge on the H700+AXP717",
+    "image": "",
+    "url": "https://community.muos.dev/t/why-battery-levels-are-just-a-guess/368",
+    "button": "View battery info on Website",
+    "color": "blue"
+  },
   {
     "name": "cores",
     "description": "Show link to cores",
